@@ -161,7 +161,7 @@ NLP2026 の参加登録期間は、事前登録が2026/01/07〜02/12、直前登
 
 ## 提案者
 
-- 大村舞 <small>国立国語研究所</small>
+- 大村舞 <small>大阪樟蔭女子大学</small>
 - 河原大輔 <small>早稲田大学</small>
 - 久保隆宏 <small>アマゾンウェブサービスジャパン合同会社</small>
 - 柴田知秀 <small>SB Intuitions</small>
