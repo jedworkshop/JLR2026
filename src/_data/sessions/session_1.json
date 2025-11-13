@@ -1,0 +1,17 @@
+{
+  "time": "9:15-10:20",
+  "title": "午前＜１＞",
+  "chair": " ()",
+  "has_detail": true,
+  "talks": [
+    {
+      "id": "a-1",
+      "type": "normal",
+      "time": "9:15-9:40",
+      "title": "",
+      "presenter": " ()",
+      "material": "../materials/a-1.pdf",
+      "abstract": ""
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "time": "13:20-14:35",
+  "title": "午後＜１＞",
+  "chair": " ()",
+  "has_detail": true,
+  "talks": [
+    {
+      "id": "d-1",
+      "type": "normal",
+      "time": "13:20-13:40",
+      "title": "",
+      "presenter": " ()",
+      "online": true,
+      "material": "../materials/d-1.pdf",
+      "abstract": ""
+    }
+  ]
+}

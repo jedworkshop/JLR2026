@@ -1,0 +1,26 @@
+{
+    "time": "14:45-15:35",
+    "title": "午後＜２＞",
+    "chair": " ()",
+    "has_detail": true,
+    "talks": [
+      {
+        "id": "e-1",
+        "type": "lt",
+        "time": "",
+        "title": "",
+        "presenter": " ()",
+        "material": "../materials/e-1.pdf",
+        "abstract": ""
+      },
+      {
+        "id": "e-d1",
+        "type": "panel",
+        "time": "",
+        "title": "ディスカッション (5分)",
+        "presenter": "",
+        "material": "../materials/.pdf",
+        "abstract": ""
+      }
+    ]
+  }
