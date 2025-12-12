@@ -23,14 +23,14 @@ index: true
 </td></tr></table>
 
 <div class="twitter_info">
-  <div class="accoutn">Twitter公式アカウント<a href="https://twitter.com/jedws" target="_blank" rel="noreferrer">@jedws</a></div>
+  <div class="accoutn">X 公式アカウント<a href="https://x.com/jedws" target="_blank" rel="noreferrer">@jedws</a></div>
 </div>
 
 ## 新着情報
 
 - 2025/11/13 JLR2026公式Webサイトをオープンしました。
-<!--
 - 2025/12/12 発表募集要項と一般発表・ライトニングトーク申込受付ページを公開しました
+<!--
 - 2026/02/10 一般発表の申込みを締め切りました
 - 2026/02/25 [プログラム](./program/)と[招待講演](./program/#午前＜２＞)の詳細を公開しました
 - 2026/03/08 [プログラム](./program/)に発表資料を公開しました
@@ -145,13 +145,13 @@ index: true
 
 ### 発表申込フォーム
 
-※発表申込は2025年12月12日(金)に開始します。
-
 <!--
-[こちらのGoogleフォーム]()に必要事項を記入して送信してください。
-
-※発表受付時に確認メールは送信されません。後日、登録いただいたメールアドレス宛に案内メールを送信いたします。
+※発表申込は2025年12月12日(金)に開始します。
 -->
+
+[こちらのGoogleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSdteWJn7oIMON9srEyqB2kM6kTQ4oJTEpbMu6wiSDmklxIN6A/viewform?usp=header)に必要事項を記入して送信してください。
+
+※申込時に確認メールが送信されますので、必ず申込内容をご確認ください。
 
 ## 参加申込
 
