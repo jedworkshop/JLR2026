@@ -14,7 +14,7 @@ index: true
   <img src="https://jedworkshop.github.io/JLR2026/img/icon.png" style="width:120px;">  
 </td>
 </tr><tr><td colspan="2">
-会場：ライトキューブ宇都宮＋オンライン中継のハイブリッド開催  
+会場：ライトキューブ宇都宮 1F大ホール(西)＋オンライン中継のハイブリッド開催  
 
 <!--
 共催：国立国語研究所<br/>
